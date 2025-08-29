@@ -1,2 +1,5 @@
-# Comp1Prob10dataStruct20252
-Problema 10 de la Competencia 1 del curso Estructuras de Datos Grupo B 2025-2
+# Problema 10: Compresión por Conteo (RLE)
+
+Comprime como pares (valor, cantidad consecutiva).
+
+Sigue las instrucciones del Problema 10 del Problemset.
